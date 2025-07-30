@@ -1,2 +1,2 @@
 # MoleculesAndMachines
-Biotechnologist by training, innovator at heart. I use AI tools like AlphaFold &amp; Chimera to study how viruses like SARS-CoV-2 enter cells. Skilled in tissue culture &amp; Western blotting, I'm passionate about solving real-world health puzzles and exploring research at the intersection of biology &amp; AI. 
+Biotechnologist blending AI and molecular biology to tackle viral entry. I used AlphaFold & Chimera to visualize smart protein binders targeting SARS-CoV-2. From cell culture to Western blotting, I bring both code and culture to the fight against infectious diseases. 
